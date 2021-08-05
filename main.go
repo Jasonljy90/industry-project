@@ -3,7 +3,8 @@ package main
 import (
 	"log"
 	"net/http"
-	"video-chat-app/server"
+	"websocket/server"
+	//"video-chat-app/server"
 	//"websocket/server"
 )
 
